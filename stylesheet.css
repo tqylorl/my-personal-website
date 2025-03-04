@@ -1,0 +1,23 @@
+/* Style all <p> tags */
+p {
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+}
+
+/* Create a class and apply to multiple elements */
+.content-section {
+    margin: 20px;
+    padding: 10px;
+    border: 1px solid #ccc; /* Box model property: border */
+}
+
+/* Create an id and apply styles */
+#header {
+    background-color: #f4f4f4;
+    padding: 20px; /* Box model property: padding */
+}
+
+/* Change the color of <a> on hover */
+a:hover {
+    color: red;
+}
